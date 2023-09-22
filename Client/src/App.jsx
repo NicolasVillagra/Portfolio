@@ -199,7 +199,7 @@ function App() {
           <footer className="absolute w-full h-36 bottom-0 p-8 px-16 bg-gray-800 text-gray-50">
             <p className="text-2xl">Gracias por ver mi portfolio</p>
             <a className="text-lg" href="mailto:villagrajosenicolas@gmail.com">
-              villagrajosenicolas@gmail.com
+              villagrajosenicolas@gmail.com 
             </a>
           </footer>
           <div className="h-80"></div>
