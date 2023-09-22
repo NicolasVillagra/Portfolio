@@ -191,17 +191,7 @@ function App() {
               </div>
               <div className="flex flex-col col-span-4 ">
                 <div className="bg-gray-900 p-4">
-                  <video
-                    className="w-full h-auto"
-                    controls // Agrega controles de reproducción (pausa, reproducción, volumen, etc.)
-                    poster="/ruta/a/una-imagen-de-poster.jpg" // Ruta de la imagen de poster
-                  >
-                    {/* Fuentes de video */}
-                    <source src="/VideoTwo.mp4" type="video/mp4" />{" "}
-                    {/* Formato MP4 */}
-                    {/* Formato WebM */}
-                    {/* Si deseas agregar más formatos de video, puedes hacerlo aquí */}
-                  </video>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/nQNdR29VzuA?si=IERGOHTLp1oHey7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
               </div>
             </div>
