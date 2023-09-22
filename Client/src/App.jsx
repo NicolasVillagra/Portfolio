@@ -29,7 +29,7 @@ function App() {
                   <ul className="flex flex-col md:flex-row items-end md:items-center md:space-x-4 space-y-4 md:space-y-0">
                     <li>
                       <a
-                        href="https://www.github.com"
+                        href="https://github.com/NicolasVillagra"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Github"
@@ -47,7 +47,7 @@ function App() {
                     </li>
                     <li>
                       <a
-                        href="https://www.linkedin.com"
+                        href="https://www.linkedin.com/in/jose-nicolas-villagra-83332a242/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="linkedin"
