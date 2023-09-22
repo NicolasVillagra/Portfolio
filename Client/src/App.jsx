@@ -187,7 +187,7 @@ function App() {
                 <h5 className="text-xl md:text-2xl font-bold">Oasis Hotel</h5>
                 <h6 className="text-lg font-bold">Proyecto Grupal</h6>
                 <a href="https://pffront40.onrender.com/" className="text-lg font-bold">Ir a la pagina</a>
-                <p>Ago 2023 - Sep 2023 </p>
+                <p>Ago 2023 - Sep 2023  </p>
               </div>
               <div className="flex flex-col col-span-4 ">
                 <div className="bg-gray-900 p-4">
