@@ -137,7 +137,7 @@ function App() {
               <div className="px-20">
                 <h4 className="text-xl font-bold">Experience</h4>
                 <br />
-                <p className="text-6xl">+2</p>
+                <p className="text-6xl">+1</p>
               </div>
               <div className="px-20">
                 <h4 className="text-xl font-bold">Projects</h4>
